@@ -14,6 +14,7 @@
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Live Deployment](#-live-deployment)
 - [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
 - [Installation & Setup](#installation--setup)
@@ -63,6 +64,15 @@
 - JavaScript: 95.9%
 - Shell: 3.0%
 - Other: 1.1%
+
+---
+
+## 🌐 Live Deployment
+
+| Platform | Link |
+|----------|------|
+| **Frontend (Vercel)** | [https://career-navigator-01.vercel.app/](https://career-navigator-01.vercel.app/) |
+| **Backend (Render)** | [https://career-navigator01.onrender.com](https://career-navigator01.onrender.com) |
 
 ---
 
@@ -227,8 +237,6 @@ npm i -g vercel
 cd client
 vercel
 ```
-
-👉 **Live Demo**: https://career-navigator-01.vercel.app
 
 ### Backend Deployment (Render)
 
